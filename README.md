@@ -1,4 +1,6 @@
-# Gene-overlap-and-Spearman-s-correlations-for-GWAS-enrichment-analysis
+# GWAS enrichment analysis
+
+# Gene overlap and Spearman s-correlations for GWAS enrichment analysis
 
 FUMA_GWAS <- read.csv("GWAS_magma.genes.out.csv")#file from FUMA analysis using summary statistics from each GWAS
 
